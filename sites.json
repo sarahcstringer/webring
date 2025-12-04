@@ -63,5 +63,10 @@ window.WEBRING_SITES = [
         "url": "https://johnathandos.com",
         "name": "Johnathan Ortiz-Sonnen",
         "description": "Johnathan Ortiz-Sonnen's blog"
+    },
+    {
+        "url": "https://technicalwriting.dev",
+        "name": "technicalwriting.dev",
+        "description": "Field notes from the frontier of technical writing"
     }
 ];
